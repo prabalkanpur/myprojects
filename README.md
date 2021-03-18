@@ -1,6 +1,9 @@
 # myprojects
 my project
 
+Title:		       Smart Music learning App 
+Description:		 AI based Smart music learning app currently used by 100+ user.
+
 Title:		       Mentha Mitra 
 Link:		         https://play.google.com/store/apps/details?id=com.cimap.myplaceapi&hl=en
 
