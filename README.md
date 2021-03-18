@@ -27,5 +27,8 @@ Algorithm used:	 Decision Tree, CNN, Random forest, Support vector machine.
 Title:		       Image Classification with MNIST Dataset by CNN 
 Description:     Handwriting Digit Recognition using Convolutional Neural Network with Keras.
 
+Publication:    ‘Mentha Mitra’—An android app based advisory digital tool for menthol mint farmers
+Link:            https://www.sciencedirect.com/science/article/pii/S092666901931057X
+
 
 
