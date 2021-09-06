@@ -1,7 +1,7 @@
 # myprojects
 my project
 
-Title:		       Smart Music learning App 
+Title:		       Narottam - SMART PLATFORM FOR MUSIC TEACHING 
 Description:		 AI based Smart music learning app currently used by 100+ user.
 Link:		         https://play.google.com/store/apps/details?id=iitk.musiclearning
 
