@@ -3,6 +3,7 @@ my project
 
 Title:		       Smart Music learning App 
 Description:		 AI based Smart music learning app currently used by 100+ user.
+Link:		         https://play.google.com/store/apps/details?id=iitk.musiclearning
 
 Title:		       Mentha Mitra 
 Link:		         https://play.google.com/store/apps/details?id=com.cimap.myplaceapi&hl=en
