@@ -1,5 +1,5 @@
-# myprojects
-my project
+# My Projects
+
 
 Title:		       Narottam - SMART PLATFORM FOR MUSIC TEACHING 
 Description:		 AI based Smart music learning app currently used by 100+ user.
