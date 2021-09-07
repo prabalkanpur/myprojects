@@ -5,6 +5,10 @@ Title:		       Narottam - SMART PLATFORM FOR MUSIC TEACHING
 Description:		 AI based Smart music learning app currently used by 100+ user.
 Link:		         https://play.google.com/store/apps/details?id=iitk.musiclearning
 
+Title:		       Darkroom Streaming (Early Access) 
+Description:		 Darkroom is about. We’re film junkies, and we get a rush from plucking quality stuff out of obscurity for your viewing pleasure. So welcome, have a look and enjoy                  the art of film.
+Link:		         https://play.google.com/store/apps/details?id=com.darkroom.androidmobile
+
 Title:		       Mentha Mitra 
 Link:		         https://play.google.com/store/apps/details?id=com.cimap.myplaceapi&hl=en
 
