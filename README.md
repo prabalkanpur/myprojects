@@ -1,4 +1,4 @@
-# My Projects
+# Published Apps
 
 
 Title:		       Narottam - SMART PLATFORM FOR MUSIC TEACHING 
@@ -21,6 +21,9 @@ Link:		         https://play.google.com/store/apps/details?id=com.madonline&hl=e
 Title:		       Yoga from the heart
 Link:		         https://play.google.com/store/apps/details?id=com.infoicontechnologies.yoga&hl=en  
 
+# Projects
+
+
 Title:		       Crop Modelling 
 Description:     Nitrogen and Chlorophyll estimation of  Drone data. 
 Algorithm used:  Relevance vector machine, Partial Least  Square.
@@ -32,7 +35,10 @@ Algorithm used:	 Decision Tree, CNN, Random forest, Support vector machine.
 Title:		       Image Classification with MNIST Dataset by CNN 
 Description:     Handwriting Digit Recognition using Convolutional Neural Network with Keras.
 
-Publication:    ‘Mentha Mitra’—An android app based advisory digital tool for menthol mint farmers
+# Publication
+
+
+Title:    ‘Mentha Mitra’—An android app based advisory digital tool for menthol mint farmers
 Link:            https://www.sciencedirect.com/science/article/pii/S092666901931057X
 
 
